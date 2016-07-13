@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:           Here's my site.
 locale:           en_US
 logo:
 url:
@@ -9,7 +9,7 @@ owner:
   name: Matthew Whitfield
   avatar: bio-photo.jpg
   bio: "A different, nearly as brief, description. Of myself."
-  email: mbwhitfi@ncsu.edu
+  email: x@x.com
   disqus-shortname:
   twitter: #username
   facebook: #username
